@@ -1,0 +1,14 @@
+layout_spectrum: 0.4262107771355659
+typography_spectrum: 0.6388078194577247
+color:
+  brandStrength: 0.5720881454180926
+  lightness: 0.8235765642020851
+  saturation: 0.9914582853671163
+  rhythmicContrast: 0.1616214425303042
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: O2
